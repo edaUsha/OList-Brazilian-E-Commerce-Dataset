@@ -103,7 +103,7 @@ Three zero-to-low-cost interventions — recalibrating delivery estimates, imple
 #### Monthly Revenue Trend
 Revenue grew steadily from late 2016 through 2017, peaking sharply in **November 2017** — consistent with Black Friday and seasonal demand. Revenue dipped in December 2017 before recovering to a stable but bumpy trajectory through 2018. The business is not in absolute decline — it is **acquisition-dependent**, meaning revenue tracks new customer volume rather than any retained base.
 
-![Monthly Revenue Trend](segment_customer_count.png)
+![Monthly Revenue Trend]
 <img width="782" height="277" alt="image" src="https://github.com/user-attachments/assets/a5d16a00-75e1-4125-ae09-396d013d5240" />
 
 
@@ -166,7 +166,7 @@ To validate segmentation without human-defined thresholds, K-Means clustering wa
 
 #### Top 10 Categories by Revenue
 
-![Top 10 Product Categories by Revenue](top10_category_revenue.png)
+![Top 10 Product Categories by Revenue]
 <img width="737" height="297" alt="image" src="https://github.com/user-attachments/assets/24d3abfa-0ed8-4ff9-94b0-226b383e5c8f" />
 
 The top 3 categories account for a significant share of total revenue — indicating category concentration risk. If demand in these categories softens, total revenue is materially impacted.
@@ -206,7 +206,7 @@ While only 2.9% of orders arrive late, the damage is catastrophic:
 #### Finding 4 — On-Time Scores Worse Than Early
 On-Time deliveries (meeting the estimated date) average only **3.06**, with a 32.7% one-star rate. C
 
-![Review Score Distribution by Delivery Performance](review_distribution_by_delivery.png)
+![Review Score Distribution by Delivery Performance]
 <img width="632" height="296" alt="image" src="https://github.com/user-attachments/assets/611a7879-91fc-4448-99b6-899e9ce81c94" />
 
 ---
